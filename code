@@ -1,0 +1,9 @@
+/
+├── client/
+│   └── src/
+│       ├── components/
+│       ├── hooks/
+│       ├── lib/
+│       ├── pages/
+├── server/
+├── shared/
